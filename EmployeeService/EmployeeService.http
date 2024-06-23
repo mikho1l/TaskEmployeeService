@@ -1,0 +1,6 @@
+@EmployeeService_HostAddress = http://localhost:5295
+
+GET {{EmployeeService_HostAddress}}/createemployee/
+Accept: application/json
+
+###

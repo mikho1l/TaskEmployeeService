@@ -1,0 +1,11 @@
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\bin\Debug\net8.0\Domain.dll
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.dll
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\Domain.pdb
+C:\Users\mikhoil\source\repos\TestTaskEmployeeService\Core\obj\Debug\net8.0\ref\Domain.dll
